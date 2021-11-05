@@ -153,6 +153,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [IOT Minion - Final](https://www.youtube.com/watch?v=pUK80vrXUAI)
+- [demo](https://www.youtube.com/watch?v=oZmIlLx7ixA)
 <!-- YOUTUBE:END -->
 
 ---
