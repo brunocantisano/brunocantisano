@@ -162,6 +162,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sentinela da Garagem Digital – IoT](https://dev.to/brunocantisano/sentinela-da-garagem-digital-iot-5140)
 <!-- BLOG-POST-LIST:END -->
 
 ---
