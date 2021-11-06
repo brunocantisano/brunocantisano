@@ -170,7 +170,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/brunocantisano/iot-minion/issues/1) in [brunocantisano/iot-minion](https://github.com/brunocantisano/iot-minion)
+1. ❗️ Opened issue [#22](https://github.com/brunocantisano/iot-minion/issues/22) in [brunocantisano/iot-minion](https://github.com/brunocantisano/iot-minion)
 <!--END_SECTION:activity-->
 
 </details>
