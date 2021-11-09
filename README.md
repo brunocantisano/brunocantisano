@@ -188,3 +188,5 @@
 [instagram]: https://www.instagram.com/bccantisano
 [linkedin]: https://www.linkedin.com/in/brunocantisano
 
+![Profile views](https://gpvc.arturio.dev/brunocantisano)
+
