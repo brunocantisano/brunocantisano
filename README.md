@@ -4,10 +4,10 @@
 
 ## I'm a Husband, Father, Developer, and a Heavy Metal Guy!!!
 
-- 🌱 I’m currently coursing Data Science - MBA USP/Esalq
+- 🌱 Data Science Postgraduate - MBA USP/Esalq
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contributor to Open Source projects
-- ⚡ Fun fact: I love eletronics and play guitar / cello
+- ⚡ Fun fact: I love eletronics and playing guitar or cello
 - 🔭 I’m currently working on IOT projects
 - 📫 How to reach me: bruno.cantisano@gmail.com
 
