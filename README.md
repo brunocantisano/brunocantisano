@@ -116,6 +116,8 @@
 <p>I am a Solutions Architect. Enthusiastic IOT Developer with 15 year of practical experience in Database, Development, DevOps and Systems Solutions. Scrum & Agile inspired.</p>
 <br />
 
+![ActionFigure.png](actionfigure.png)
+
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 
